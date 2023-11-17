@@ -1,0 +1,29 @@
+# Meeting #3
+
+Date: Nov 17, 2023
+Online
+
+We decided that we will try to maintain documentation about our meetings.
+
+We decided that we keep our communications, and documention in English (as much as possible)
+Was mentioned that ChatGPT does a great job in translating English text to other languages, so hoefully our decision will not create a barrier for members to engage with the content.
+The other benefit of using English as the main language, is the possibility of collaborating with like-minded people in other places. Like the Phillipines, Mexico, Nigeria, Arab countries, etc.
+
+We decided, we will create a Github account for Ready Board.
+- [ ] Ali Padash, to do that.
+
+We decided we will use the Google account for storing documents, etc. and will be shared amognst the admins.
+
+Static websites using github and netlify
+https://pcbtips.ir/
+https://readyboard.ir/
+- [ ] need to move to github + netlify
+- [ ] An announcement for inviting those who are keen to help with the website
+
+# Meeting #2
+
+Date: Nov 3, 2023
+
+TBC to use Obsidian for note taking and documentation
+https://obsidian.md/
+Markdown files can later also be used for content on the website.
