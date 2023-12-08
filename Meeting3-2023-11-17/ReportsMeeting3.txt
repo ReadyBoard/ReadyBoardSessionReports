@@ -1,3 +1,18 @@
+
+Meeting #4
+Date: Dec 8, 2023
+Online
+
+During this online session, we gathered to discuss the usage of GitHub. 
+We created a new repository, shared it, and worked on a sample project involving a PCB and schematic. 
+We added power to the schematic using LM2576, removed it, and then found it again in the repository. 
+You can access the project in the following repository: 
+
+https://github.com/poyasun/ReadyBoardPowerLm2576
+
+Also you can find the reports on link below:
+https://github.com/ReadyBoard/ReadyBoardSessionReports
+
 # Meeting #3
 
 Date: Nov 17, 2023
